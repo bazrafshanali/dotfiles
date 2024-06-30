@@ -190,3 +190,5 @@ bar {
 }
 
 default_border none
+gaps inner 5
+smart_gaps on
